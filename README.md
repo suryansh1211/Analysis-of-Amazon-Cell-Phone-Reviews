@@ -13,3 +13,7 @@
 **Solution:**
 
 This project aims at building a model to predict the helpfulness of the review and the rating based on the review text. Corpus-based and knowledge-based methods can be used to determine the semantic similarity of review text. We will be using Natural language processing to analyse the sentiment ( positive or a negative) of the given review . A sample web application is integrated to the model built.
+
+
+
+[Project.h5](https://drive.google.com/file/d/1y-FodqobcJr4C5qyiNC01fvUlsJJMAl7/view?usp=sharing)
